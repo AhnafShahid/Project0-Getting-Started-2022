@@ -290,4 +290,4 @@ And you're done!
         - Extend 4 projects by 1 day each
         - OR: Extend 1 project by 4 days
         - OR: Extend 2 projects by 2 days each
-* Can't be used for the final project
+
